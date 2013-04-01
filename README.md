@@ -1,7 +1,5 @@
-openfaust
-=========
-
 OpenFaust Time-as-a-Service platform
+=========
 
 For those of us with too much to do and too little time to do it, OpenFaust defines a time-stealing platform. The API is simple, consisting of three calls:
 
